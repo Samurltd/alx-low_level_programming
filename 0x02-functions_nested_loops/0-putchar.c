@@ -19,5 +19,5 @@ int main(void)
 	}
 	_putchar('\n');
 
-	eturn (0);
+	return (0);
 }
